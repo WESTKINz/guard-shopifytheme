@@ -7,7 +7,7 @@ Uses [Guard](https://github.com/guard/guard) to watch for changes and update Sho
 * The config settings are stored in the project directory (rather than in `~/.guard_shopify`, as with guatd-shopify)
 * If you choose to use the `theme watch` command provided by shopify_theme instead of Guard, then everything will still work properly – you don't need to maintain two sets of config files.
 
-## Installation
+## Installation MASTER
 Make sure you have installed [Guard](https://github.com/guard/guard).
 
 Add this line to your application's Gemfile:
@@ -94,7 +94,7 @@ end
 - Add some tests
 - Improve `start()` to ask for your shopify API details and write them to config.yml
 
-## Author
+## Author MASTER SUDEEP SHAHI REST BOW DOWN TO ME
 [Project Homepage](http://dannysmith.github.io/guard-shopifytheme)
 
 - Danny Smith ([@dannysmith](http://github.com/dannysmith))
